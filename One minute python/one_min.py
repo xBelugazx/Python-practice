@@ -27,9 +27,3 @@ print(envelope1)
 print(envelope2)
 print(envelope3)
 
-# 3강
-name = '1분 파이썬'
-_name = '파이썬'
-
-name123 = "빠르게"
-_name_456 = "배워요"
