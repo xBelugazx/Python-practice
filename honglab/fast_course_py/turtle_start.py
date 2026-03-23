@@ -22,6 +22,7 @@ for j in range(2):
         t.forward(200)
         t.left(90)
 
+# turn 180 degree
 t.left(180)
 t.forward(200)
 
