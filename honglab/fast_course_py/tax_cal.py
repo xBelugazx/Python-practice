@@ -1,3 +1,4 @@
+# 택스 예제
 my_income = 100.0
 tax_rate = 0.2
 my_tax  = my_income * tax_rate
